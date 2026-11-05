@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    LED_ON();
+    LED_Toggle();
 
     while (1)
     {
